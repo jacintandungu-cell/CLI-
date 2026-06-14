@@ -1,0 +1,21 @@
+{
+    "users": [
+        {
+            "username": "Jacinta",
+            "email": "jacinta@example.com",
+            "projects": [
+                {
+                    "name": "Portfolio SPA",
+                    "description": "React project showcase",
+                    "tasks": [
+                        {
+                            "title": "Implement search feature",
+                            "due_date": "2026-06-20",
+                            "completed": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
